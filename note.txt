@@ -1,0 +1,10 @@
+tai visuacode nodejs python miniconda3
+1. Mở cmd
+2. Vào môi trường python: conda activate base
+3. Chạy app.js
+
+pip install -r requirements.txt
+
+
+python 1.py
+

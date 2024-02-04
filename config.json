@@ -1,0 +1,33 @@
+{
+    "domain":"http://localhost:3000",
+    "mongodb":{
+        "server":"cluster0.nzobcjm.mongodb.net",
+        "username":"data2",
+        "password":"data2",
+        "dbname":"JP_PAYMENT"
+    },
+    "mail":{
+        "smtpserver":"",
+        "username":"",
+        "password":"",
+        "dbname":""
+    },
+    "id_tele_pr":{
+        "id_tien":"1700213852",
+        "id_stea":"104594954",
+        "id_dai":"5533360571",
+        "id_xn1":"1243515790",
+        "id_xn2":"1113158165",
+        "id_xn3":"128464021"
+    },
+    "id_tele_gr":{
+        "id_gr_jpy":"-734195781",
+        "id_gr_vnd":"-771690030",
+        "id_gr_back":"-875593859",
+        "id_gr_newpayoutjp":"-730363183"
+    },
+    "id_mess_edit":{
+        "id_gr_jpy":"9234",
+        "id_gr_newpayoutjp":"9240"
+    }
+}
